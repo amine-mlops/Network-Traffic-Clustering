@@ -1,0 +1,4 @@
+strategy,categorical_columns,total_features,output_dtype,categorical_dim,cat_block_zero_fraction,mean_total_dist,mean_num_dist,mean_cat_dist,cat_share_of_distance,distance_cv
+ohe_full,151,190,float32,151,0.980132,82.29788,78.724402,3.573478,0.043421,0.841466
+ohe_topk,24,63,float32,24,0.875,82.293774,78.724402,3.569372,0.043374,0.84156
+freq,3,42,float32,3,0.0,84.921721,78.724402,6.197319,0.072977,0.817903

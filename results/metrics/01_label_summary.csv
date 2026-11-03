@@ -1,0 +1,5 @@
+,train,test
+rows,82332.0,175341.0
+normal (label=0),37000.0,56000.0
+attack (label=1),45332.0,119341.0
+attack_rate,0.5506,0.6806

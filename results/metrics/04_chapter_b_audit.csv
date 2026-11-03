@@ -1,0 +1,4 @@
+representation,n_features,normal_train,normal_val,test,dtype,all_finite,columns_aligned,val_is_normal_only
+ohe_full,58,29600,7400,175341,float32,True,True,True
+ohe_topk,58,29600,7400,175341,float32,True,True,True
+freq,42,29600,7400,175341,float32,True,True,True

@@ -1,0 +1,4 @@
+representation,n_features,train_rows,test_rows,dtype,train_zero_fraction,test_zero_fraction,all_finite,columns_aligned
+ohe_full,190,82332,175341,float32,0.7789473684210526,0.7789482989386995,True,True
+ohe_topk,63,82332,175341,float32,0.3333333333333333,0.3333333333333333,True,True
+freq,42,82332,175341,float32,0.0,0.0,True,True

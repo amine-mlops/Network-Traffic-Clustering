@@ -1,0 +1,5 @@
+column,n_categories_train,n_categories_test,top_category,top_share,top3_share,rarest_share,n_categories_lt_1pct
+proto,131,133,tcp,0.5234,0.9234,0.000364,127
+service,13,13,-,0.5727,0.9329,6.1e-05,7
+state,7,9,FIN,0.4778,0.9776,1.2e-05,3
+attack_cat,10,10,Normal,0.4494,0.8138,0.000534,4
